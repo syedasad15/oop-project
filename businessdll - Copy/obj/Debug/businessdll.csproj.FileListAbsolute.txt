@@ -1,0 +1,6 @@
+C:\Users\T L S\Desktop\Error\ClassLibrary1\businessdll\bin\Debug\businessdll.dll
+C:\Users\T L S\Desktop\Error\ClassLibrary1\businessdll\bin\Debug\businessdll.pdb
+C:\Users\T L S\Desktop\Error\ClassLibrary1\businessdll\obj\Debug\businessdll.csproj.AssemblyReference.cache
+C:\Users\T L S\Desktop\Error\ClassLibrary1\businessdll\obj\Debug\businessdll.csproj.CoreCompileInputs.cache
+C:\Users\T L S\Desktop\Error\ClassLibrary1\businessdll\obj\Debug\businessdll.dll
+C:\Users\T L S\Desktop\Error\ClassLibrary1\businessdll\obj\Debug\businessdll.pdb
